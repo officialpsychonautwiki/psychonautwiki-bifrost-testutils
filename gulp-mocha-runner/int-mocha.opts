@@ -1,0 +1,4 @@
+test/int/**/*.js
+--mochamode
+--check-leaks
+--timeout 10000

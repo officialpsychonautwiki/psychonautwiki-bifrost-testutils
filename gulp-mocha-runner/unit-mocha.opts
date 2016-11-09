@@ -1,0 +1,3 @@
+test/unit/**/*.js
+--mochamode
+--ui bdd

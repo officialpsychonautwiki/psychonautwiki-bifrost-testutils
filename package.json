@@ -1,0 +1,28 @@
+{
+  "name": "psychonautwiki-bifrost-testutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:officialpsychonautwiki/psychonautwiki-bifrost-testutils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-shallow-deep-equal": "^1.4.4",
+    "chai-subset": "^1.3.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "mocha-jenkins-reporter": "^0.3.1",
+    "mocha-junit-reporter": "^1.12.1",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0"
+  }
+}

@@ -1,0 +1,5 @@
+test/bdd/**/*.js
+--mochamode
+--ui bdd
+--check-leaks
+-t 20000
